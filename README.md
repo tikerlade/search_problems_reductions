@@ -1,3 +1,4 @@
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Python checks](https://github.com/tikerlade/search_problems_reductions/actions/workflows/python_checks.yml/badge.svg)](https://github.com/tikerlade/search_problems_reductions/actions/workflows/python_checks.yml)
 
 
@@ -26,3 +27,4 @@ TBD
   - flake8
   - pytest
   - isort
+  - check-docstrings-first
